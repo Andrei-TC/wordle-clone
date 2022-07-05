@@ -4,14 +4,14 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/andrei-tiberius-cojocaru/]
+<a href="https://www.linkedin.com/in/andrei-tiberius-cojocaru/">LinkedIn</a>
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <!-- <a href="https://github.com/github_username/repo_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
 <h3 align="center">Wordle Clone</h3>
 
@@ -35,6 +35,8 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#roadmap">Roadmap</a></li>
+        <li><a href="#contributing">Contributing</a></li>
       </ul>
     </li>
   </ol>
@@ -44,19 +46,19 @@
 
 ## About The Project
 
-[![Desktop preview of the website][product-screenshot]](/images/desktop.png "Desktop preview")
-[![Tutorial][product-screenshot]](/images/tutorial.png "Tutorial preview")
-[![Win result][product-screenshot]](/images/won.png "Win preview")
-[![Defeat result][product-screenshot]](/images/lost.png "Defeat preview")
+![Desktop preview of the website](/images/desktop.png "Desktop preview")
+![Tutorial](/images/tutorial.png "Tutorial preview")
+![Win result](/images/won.png "Win preview")
+![Defeat result](/images/lost.png "Defeat preview")
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
-- [React.js]
-- [SCSS]
-- [HTML]
-- [JavaScript]
+- React.js
+- SCSS
+- HTML
+- JavaScript
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -83,7 +85,6 @@ See the [open issues](https://github.com/Andrei-TC/wordle-clone/issues) for a fu
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
