@@ -47,9 +47,9 @@
 ## About The Project
 
 ![Desktop preview of the website](/images/desktop.png "Desktop preview")
-<img src="/images/tutorial.png" height="200" width="100" tooltip="Tutorial preview">
-<img src="/images/won.png" height="200" width="100" tooltip="Win preview">
-<img src="/images/lost.png" height="200" width="100" tooltip="Defeat preview">
+<img src="/images/tutorial.png" width="273" tooltip="Tutorial preview">
+<img src="/images/won.png" width="273" tooltip="Win preview">
+<img src="/images/lost.png" width="273" tooltip="Defeat preview">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
