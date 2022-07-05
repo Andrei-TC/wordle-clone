@@ -4,7 +4,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<a href="https://www.linkedin.com/in/andrei-tiberius-cojocaru/">LinkedIn</a>
+<a align="center" href="https://www.linkedin.com/in/andrei-tiberius-cojocaru/">LinkedIn</a>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -47,9 +47,9 @@
 ## About The Project
 
 ![Desktop preview of the website](/images/desktop.png "Desktop preview")
-![Tutorial](/images/tutorial.png "Tutorial preview")
-![Win result](/images/won.png "Win preview")
-![Defeat result](/images/lost.png "Defeat preview")
+<img src="/images/tutorial.png" height="200" width="100" tooltip="Tutorial preview">
+<img src="/images/won.png" height="200" width="100" tooltip="Win preview">
+<img src="/images/lost.png" height="200" width="100" tooltip="Defeat preview">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
